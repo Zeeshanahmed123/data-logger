@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="304,79,0,0" VerticalAlignment="Top" Width="75"/>
+        <textblock text = "Hello World!"></textblock>
 
     </Grid>
 </Window>
